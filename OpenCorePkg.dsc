@@ -139,6 +139,7 @@
   UefiBootServicesTableLib|MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.inf
   UefiBootManagerLib|MdeModulePkg/Library/UefiBootManagerLib/UefiBootManagerLib.inf
   UefiDriverEntryPoint|OpenCorePkg/Library/OcDriverEntryPoint/UefiDriverEntryPoint.inf
+  UefiFileHandleLib|MdePkg/Library/UefiFileHandleLib/UefiFileHandleLib.inf
   UefiHiiServicesLib|MdeModulePkg/Library/UefiHiiServicesLib/UefiHiiServicesLib.inf
   UefiLib|MdePkg/Library/UefiLib/UefiLib.inf
   UefiRuntimeServicesTableLib|MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.inf
@@ -181,6 +182,7 @@
   OpenCorePkg/Application/CsrUtil/CsrUtil.inf
   OpenCorePkg/Application/GopPerf/GopPerf.inf
   OpenCorePkg/Application/GopStop/GopStop.inf
+  OpenCorePkg/Application/HttpDemo/HttpDemo.inf
   OpenCorePkg/Application/KeyTester/KeyTester.inf
   OpenCorePkg/Application/MmapDump/MmapDump.inf
   OpenCorePkg/Application/OpenControl/OpenControl.inf
